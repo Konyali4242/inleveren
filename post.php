@@ -7,6 +7,8 @@ $email = $_POST["emial"];
 
 
 echo $naam . " " . $achternaam . " " . $leeftijd . " " . $adres . " " . $email;
+// de verschil tussen GET en POST is dat GET aan jouw en admin de ingevoerde gegevens laat zien 
+// maar bij POST is de ingevoerde gegevens niet zichtbaar voor de gebruiker
 ?>
 
 
@@ -38,5 +40,3 @@ echo $naam . " " . $achternaam . " " . $leeftijd . " " . $adres . " " . $email;
 </body>
 
 </html>
-    
-// de verschil tussen GET en POST is dat GET aan jouw en admin de ingevoerde gegevens laat zien maar bij POST is de ingevoerde gegevens niet zichtbaar voor de gebruiker
