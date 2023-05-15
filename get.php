@@ -27,7 +27,7 @@ echo $naam . " " . $achternaam . " " . $leeftijd . " " . $adres . " " . $email;
 
 
 
-<form method="POST">
+<form method="GET">
 
 <input type="text" name="naam" placeholder="Firstname">
 <input type="text" name="achternaam" placeholder="Lastname">
