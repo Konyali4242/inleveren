@@ -1,6 +1,6 @@
 <?php
 $naam = $_GET["naam"];
-$achternaam = $_GET["achtermaa,"];
+$achternaam = $_GET["achtermaam"];
 $leeftijd = $_GET["leeftijd"];
 $adres = $_GET["adres"];
 $email = $_GET["emial"];
