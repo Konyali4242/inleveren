@@ -1,6 +1,6 @@
 <?php
 $naam = $_POST["naam"];
-$achternaam = $_POST["achtermaa,"];
+$achternaam = $_POST["achtermaam"];
 $leeftijd = $_POST["leeftijd"];
 $adres = $_POST["adres"];
 $email = $_POST["emial"];
