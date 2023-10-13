@@ -2,7 +2,7 @@
 
 include "database.php";
 
-echo $_GET['ID'];
+echo $_GET['ID'] . "<br>";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
